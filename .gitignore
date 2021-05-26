@@ -1,0 +1,6 @@
+venv
+.vscode
+geotables.log
+__pycache__
+iptables.save
+ip6tables.save
